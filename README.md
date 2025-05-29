@@ -9,7 +9,7 @@ To demonstrate fluency in:
 - Understanding the trade-offs between availability, simplicity, and control
 - Applying security principles at every layer of the network
 
-This is not just a topology gallery — it's an engineer's thought process on **why designs matter**.
+This is not just a topology gallery — it's a thought process on **why designs matter** from an engineers point of view. 
 
 ## 📁 Key Sections
 
